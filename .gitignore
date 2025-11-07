@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
+.vscode/
+
+# Outputs
+plot*.png
+result*.json
+out/
+config.calibrated.yaml
